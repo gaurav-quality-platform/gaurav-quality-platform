@@ -1,41 +1,47 @@
-## Hi, I’m Gaurav Marothia👋
+## Hi, I’m Gaurav Marothia 👋
 
-I’m a QA / SDET focused on building **AI-assisted, production-grade quality platforms**.
+Agentic AI & LLM Quality Lead | Automation Architect | Release Authority for AI Systems
 
-My work sits at the intersection of:
-- Test Automation
-- AI-driven Quality Engineering
-- Observability & Metrics
-- CI/CD & Platform Reliability
+I design verification architectures for AI-driven products.
+
+My work focuses on making non-deterministic systems measurable, reliable, and production-safe, especially multi-turn agents, RAG pipelines, and tool-calling workflows.
 
 ---
+### 🧠 What I Engineer
+**AI Verification Systems**
 
-### 🔧 What I Build
+Eval frameworks with golden datasets, rubric scoring, hallucination detection, grounding validation, and behavioral drift monitoring enforced in CI/CD.
 
-- **Synthetic Test Data Platforms**  
-  PII-safe, deterministic, observable test data systems
+**Automation-First Quality Platforms**
 
-- **AI-Augmented Test Automation**  
-  LLM-assisted generation with production-safe fallbacks
+Python-based UI/API/DB automation frameworks integrated into release pipelines with deterministic quality gates.
 
-- **Quality Intelligence**  
-  Metrics, drift detection, and release risk signals
+**Agentic Workflow Validation**
+
+Validation layers for tool invocation correctness, structured outputs (JSON/Pydantic), multi-step orchestration, and safety guardrails.
+
+**Observability-Driven Quality**
+
+Prompt execution logging, model drift signals, release risk indicators, and performance telemetry for AI systems.
 
 ---
+### 🔧 Core Stack
 
-### 🧠 Tech Focus
+Python • PyTest • Robot Framework • JavaScript • Playwright
 
-- Python, FastAPI, PyTest, Playwright
-- CI/CD (GitHub Actions, Jenkins)
-- Observability (Prometheus, Grafana)
-- AI Guardrails & LLM Validation
+LLM Evaluation Frameworks • RAG Validation
+
+CI/CD (GitHub Actions, Jenkins)
+
+Observability (Prometheus, Grafana)
+
+Cloud (AWS)
 
 ---
 
 ### 🚀 Current Focus
 
-Building a modular **AI QA Platform** where quality is measured, observable, and automated — not manual or reactive.
+Engineering AI systems with the same discipline as distributed software systems where verification, guardrails, and measurable quality gates are first-class architecture components.
 
 ---
-
-📫 Connect with me on LinkedIn
+📫 Open to Agentic AI Quality Leadership & AI Engineering roles.
